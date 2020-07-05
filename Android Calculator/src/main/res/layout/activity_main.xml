@@ -6,6 +6,7 @@
     android:background="@android:color/black"
     android:orientation="vertical">
 
+    
     <TextView
         android:id="@+id/tvExpression"
         android:layout_width="match_parent"
